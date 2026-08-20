@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Research Analyst at the Federal Reserve Bank of Atlanta working with Paul Mohnen and Roberto Robatto!
+I recently started as a Research Analyst at the Federal Reserve Bank of Atlanta in June 2026 and will be working with Paul Mohnen and Roberto Robatto.
 
 <!-- Replace the two paragraphs above with your own bio: who you work with, what you're broadly interested in, and what you did before this role (undergrad, prior jobs, etc.) -->
 
