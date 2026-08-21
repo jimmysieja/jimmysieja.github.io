@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Jimmy Sieja"
 title_separator          : "-"
 name                     : &name "Jimmy Sieja"
-description              : &description "Research Assistant | Applied Economics"   # short tagline shown in browser tabs/search results
+description              : &description "Economic Research Analyst | Federal Reserve Bank of Atlanta"   # short tagline shown in browser tabs/search results
 url                      : https://jimmysieja.github.io # replace "jimmysieja" with your actual GitHub username if different
 baseurl                  : "" # leave blank when using a github.io site (not a project subpath)
 repository               : "jimmysieja/jimmysieja.github.io" # replace with your actual GitHub username/repo
@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png" # drop a headshot into /images/ and update this filename
   name             : "Jimmy Sieja"
   pronouns         : # example: "she/her"
-  bio              : "Research Assistant working on Social Security survivors benefits research" # short, ~1 sentence
+  bio              : "Economic Research Analyst supporting Social Security survivors benefits research" # short, ~1 sentence
   location         : # e.g. "New York, NY"
-  employer         : # e.g. "Department of Economics, [University]"
+  employer         : "Federal Reserve Bank of Atlanta"
   uri              : # personal URL, if any
-  email            : # your email address
+  email            : "jimmysieja@gmail.com"
 
   # Academic websites
   academia         : # URL
@@ -56,7 +56,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -65,7 +65,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "jimmy-sieja" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -73,7 +73,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "jimmysieja" # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username

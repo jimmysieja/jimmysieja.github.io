@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -7,30 +6,10 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+My CV is kept in LaTeX/Overleaf and updated periodically — download the current version below.
 
-<!-- You can also just link a PDF version of your CV instead of / in addition to this page.
-     Drop the PDF into the /files/ folder and link it like:
-     [Download my CV (PDF)](/files/your-cv.pdf) -->
+[Download my CV (PDF)](/files/cv.pdf){: .btn .btn--primary}
 
-Education
-======
-* B.A./B.S. in [Your Major], [Your University], [Year]
-
-Work experience
-======
-* [Start] – Present: Research Assistant
-  * [Department / PI's lab, University]
-  * Duties: building Census/IPUMS data extracts, constructing analysis samples, applied econometric research support
-  * Supervisor: [PI Name]
-
-Skills
-======
-* R (data.table)
-* Stata
-* Applied econometrics: regression discontinuity, difference-in-differences, 2SLS
-* Historical Census / administrative data linkage
-
-Service and leadership
-======
-* [Optional — remove if not applicable]
+<!-- To update: export the latest version from Overleaf as a PDF, name it cv.pdf, and drop it into
+     the /files/ folder, replacing the old one. The filename stays the same, so this link and the
+     button above never need to change. -->
