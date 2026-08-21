@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png" # drop a headshot into /images/ and update this filename
   name             : "Jimmy Sieja"
   pronouns         : # example: "she/her"
-  bio              : "Economic Research Analyst supporting Social Security survivors benefits research" # short, ~1 sentence
+  bio              : "Economic Research Analyst at the Federal Reserve Bank of Atlanta" # short, ~1 sentence
   location         : # e.g. "New York, NY"
   employer         : "Federal Reserve Bank of Atlanta"
   uri              : # personal URL, if any
-  email            : "jimmysieja@gmail.com"
+  email            : # your email address
 
   # Academic websites
   academia         : # URL
@@ -50,7 +50,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "jimmysieja" # your GitHub username
+  github           : # your GitHub username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 

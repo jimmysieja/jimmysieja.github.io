@@ -14,7 +14,13 @@
             {% assign domain = base_path %}
           {% endif %}
 
-          <a href="{{ domain }}{{ nav.url }}"><span class="nav__sub-title">{{ nav.title }}</span></a>
+          {% if nav.url contains ".pdf" %}
+            {% assign nav_target = ' target="_blank" rel="noopener"' %}
+          {% else %}
+            {% assign nav_target = "" %}
+          {% endif %}
+
+          <a href="{{ domain }}{{ nav.url }}"{{ nav_target }}><span class="nav__sub-title">{{ nav.title }}</span></a>
         {% else %}
           <span class="nav__sub-title">{{ nav.title }}</span>
         {% endif %}

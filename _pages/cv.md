@@ -1,15 +1,14 @@
 ---
 title: "CV"
 permalink: /cv/
-author_profile: true
 redirect_from:
   - /resume
 ---
 
-My CV is kept in LaTeX/Overleaf and updated periodically — download the current version below.
+<meta http-equiv="refresh" content="0; url=/files/cv.pdf">
 
-[Download my CV (PDF)](/files/cv.pdf){: .btn .btn--primary}
+Redirecting to my [CV (PDF)](/files/cv.pdf) — click here if you're not redirected automatically.
 
-<!-- To update: export the latest version from Overleaf as a PDF, name it cv.pdf, and drop it into
-     the /files/ folder, replacing the old one. The filename stays the same, so this link and the
-     button above never need to change. -->
+<!-- The site nav now links straight to /files/cv.pdf, so this page is just a fallback in case
+     something still points at /cv/. To update the CV: export the latest version from Overleaf as
+     a PDF, name it cv.pdf, and drop it into the /files/ folder, replacing the old one. -->
