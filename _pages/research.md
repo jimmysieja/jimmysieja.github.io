@@ -15,4 +15,4 @@ Analyzed IRS and CPS data with an event-study design to examine COVID-19's effec
 **Research assistant to Prof. Todd R. Jones** — *Mississippi State University, 2024–2025*
 Supported research on North Carolina school resource allocation and NBER coauthoring patterns, including data collection via web scraping and the OpenAI API, dataset crosswalks, and literature reviews.
 
-For the full list of experience, coursework, and extracurriculars, see my [CV](/files/cv.pdf){:target="_blank" rel="noopener"}.
+For the full list of experience, coursework, and extracurriculars, see my [CV](/cv/).

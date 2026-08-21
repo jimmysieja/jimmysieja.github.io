@@ -5,10 +5,13 @@ redirect_from:
   - /resume
 ---
 
-<meta http-equiv="refresh" content="0; url=/files/cv.pdf">
+<iframe src="/files/cv.pdf" width="100%" height="1000" style="border: none; max-width: 100%;">
+  Your browser doesn't support embedded PDFs — <a href="/files/cv.pdf">download the CV instead</a>.
+</iframe>
 
-Redirecting to my [CV (PDF)](/files/cv.pdf) — click here if you're not redirected automatically.
+<p><a href="/files/cv.pdf" target="_blank" rel="noopener">Open in a new tab</a></p>
 
-<!-- The site nav now links straight to /files/cv.pdf, so this page is just a fallback in case
-     something still points at /cv/. To update the CV: export the latest version from Overleaf as
-     a PDF, name it cv.pdf, and drop it into the /files/ folder, replacing the old one. -->
+<!-- To update: export the latest version from Overleaf as a PDF, name it exactly "cv.pdf"
+     (all lowercase — GitHub Pages is case-sensitive even though Windows isn't, so "CV.pdf" or
+     "Cv.pdf" will silently break the links above), and drop it into the /files/ folder,
+     replacing the old one. -->
