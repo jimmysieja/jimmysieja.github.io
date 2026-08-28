@@ -15,6 +15,6 @@ redirect_from:
   Then update the date below. (Links open in a new tab automatically.)
 -->
 
-**Last updated:** [Month Year]
+**Last updated:** [Aug 2026]
 
 You can see my CV [here](/files/cv.pdf).
