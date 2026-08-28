@@ -14,4 +14,4 @@ redirect_from:
 
 **Last updated:** [Month Year]
 
-<p>You can see my CV <a href="/files/cv.pdf" target="_blank" rel="noopener">here</a>.</p>
+You can see my CV [here](/files/cv.pdf){:target="_blank" rel="noopener"}.
