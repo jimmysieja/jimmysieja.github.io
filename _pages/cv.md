@@ -1,6 +1,5 @@
 ---
 title: "CV"
-kicker: "Curriculum Vitae"
 permalink: /cv/
 redirect_from:
   - /resume

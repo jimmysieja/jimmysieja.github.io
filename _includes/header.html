@@ -1,7 +1,6 @@
 <header class="site-header">
-  <div class="wrap site-header__inner">
-    <a class="site-header__name" href="/">Jimmy&nbsp;Sieja</a>
-
+  <div class="site-header__inner">
+    <a class="site-header__name" href="/">Jimmy Sieja</a>
     <nav class="site-nav" aria-label="Primary">
       {% assign here = page.url %}
       {% for item in site.data.navigation.main %}
@@ -10,11 +9,10 @@
         {% elsif item.url != "/" and here contains item.url %}{% assign active = true %}{% endif %}
         <a href="{{ item.url }}"{% if active %} aria-current="page"{% endif %}>{{ item.title }}</a>
       {% endfor %}
+      <button class="theme-toggle" type="button" aria-label="Toggle dark mode" title="Toggle light/dark">
+        <span class="theme-toggle__sun">{% include icons.html name="sun" %}</span>
+        <span class="theme-toggle__moon">{% include icons.html name="moon" %}</span>
+      </button>
     </nav>
-
-    <button class="theme-toggle" type="button" aria-label="Toggle dark mode" title="Toggle dark mode">
-      <span class="theme-toggle__sun">{% include icons.html name="sun" %}</span>
-      <span class="theme-toggle__moon">{% include icons.html name="moon" %}</span>
-    </button>
   </div>
 </header>

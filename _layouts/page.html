@@ -1,14 +1,12 @@
 ---
 layout: default
 ---
-<article class="page wrap">
-  <header class="page__head">
-    {% if page.kicker %}<p class="kicker">{{ page.kicker }}</p>{% endif %}
+<main class="wrap">
+  <article class="page">
     <h1 class="page__title">{{ page.title }}</h1>
     {% if page.lead %}<p class="page__lead">{{ page.lead }}</p>{% endif %}
-  </header>
-
-  <div class="prose">
-    {{ content }}
-  </div>
-</article>
+    <div class="prose">
+      {{ content }}
+    </div>
+  </article>
+</main>

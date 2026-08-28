@@ -1,31 +1,17 @@
 ---
 layout: default
 ---
-<div class="home wrap">
-  <section class="hero">
-    <div class="hero__text">
-      <p class="kicker">{{ page.kicker | default: "Hello" }}</p>
-      <h1 class="hero__name">{{ page.headline | default: site.name }}</h1>
-      <p class="hero__role">{{ page.role }}</p>
+<main class="wrap">
+  <div class="intro">
+    <img class="intro-photo" src="{{ page.photo | default: '/images/profile.jpg' }}" alt="{{ site.name }}">
+    <h1 class="site-title">{{ page.headline | default: site.name }}{% if page.subtitle %}, {{ page.subtitle }}{% endif %}</h1>
 
-      {% if page.bio %}<p class="hero__bio">{{ page.bio }}</p>{% endif %}
-
-      <p class="hero__links">
-        {% if site.social_links.linkedin %}<a href="https://www.linkedin.com/in/{{ site.social_links.linkedin }}">{% include icons.html name="linkedin" %}<span>LinkedIn</span></a>{% endif %}
-        {% if site.social_links.twitter %}<a href="https://x.com/{{ site.social_links.twitter }}">{% include icons.html name="twitter" %}<span>X</span></a>{% endif %}
-        {% if site.social_links.github %}<a href="https://github.com/{{ site.social_links.github }}">{% include icons.html name="github" %}<span>GitHub</span></a>{% endif %}
-        <a class="hero__cv" href="/cv/">Read my CV {% include icons.html name="arrow" %}</a>
-      </p>
-    </div>
-
-    <figure class="hero__photo">
-      <img src="{{ page.photo | default: '/images/profile.png' }}" alt="Jimmy Sieja" width="720" height="720">
-    </figure>
-  </section>
-
-  <hr class="rule">
-
-  <div class="home-body">
     {{ content }}
+
+    <nav class="profile-links" aria-label="Profiles">
+      {% if site.social_links.linkedin %}<a href="https://www.linkedin.com/in/{{ site.social_links.linkedin }}">LinkedIn</a>{% endif %}
+      {% if site.social_links.twitter %}<span aria-hidden="true">&middot;</span><a href="https://x.com/{{ site.social_links.twitter }}">X</a>{% endif %}
+      {% if site.social_links.github %}<span aria-hidden="true">&middot;</span><a href="https://github.com/{{ site.social_links.github }}">GitHub</a>{% endif %}
+    </nav>
   </div>
-</div>
+</main>

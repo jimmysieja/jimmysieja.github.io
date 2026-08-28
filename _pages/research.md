@@ -1,6 +1,5 @@
 ---
 title: "Research"
-kicker: "Working papers & projects"
 permalink: /research/
 lead: "Early-stage work. I'll expand these in my own words as they develop."
 ---
