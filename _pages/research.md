@@ -1,18 +1,39 @@
 ---
 title: "Research"
+kicker: "Working papers & projects"
 permalink: /research/
-author_profile: true
+lead: "Early-stage work. I'll expand these in my own words as they develop."
 ---
 
-Prior research
-======
-**Impact of Remote Work on Domestic Brain Drain** — *working paper, with Joshua Phillips*
-Using IPUMS USA data and a difference-in-differences design, we find that remote workers became more likely to live in their state of birth following the introduction of COVID-19. Funded by a $2,000 Shackouls Honors College Research Fellowship; presented at Mississippi State's Undergraduate Research Symposium.
+<!--
+  Each project is an <h3> title, a .meta line, a bullet list, and (optionally)
+  one or more figures. Copy the block between the rules to add a project.
+  Drop figure images into images/research/ and uncomment the <figure>.
+-->
 
-**Effects of COVID-19 on Labor Market Dynamics** — *Bates White Economic Consulting*
-Analyzed IRS and CPS data with an event-study design to examine COVID-19's effect on unemployment across age groups; presented preliminary and final findings at AEA Summer Program conferences.
+## Brain drain
 
-**Research assistant to Prof. Todd R. Jones** — *Mississippi State University, 2024–2025*
-Supported research on North Carolina school resource allocation and NBER coauthoring patterns, including data collection via web scraping and the OpenAI API, dataset crosswalks, and literature reviews.
+### Impact of Remote Work on Domestic Brain Drain
 
-For the full list of experience, coursework, and extracurriculars, see my [CV](/cv/).
+<p class="meta">Working paper · with Joshua Phillips</p>
+
+- **Question.** Did the shift to remote work during COVID-19 change whether people
+  live in the state where they were born?
+- **Data.** IPUMS USA microdata.
+- **Design.** Difference-in-differences comparing remote and non-remote workers
+  before and after the onset of the pandemic.
+- **Headline finding.** Remote workers became more likely to reside in their state
+  of birth after COVID-19 — a pull back toward home rather than toward major hubs.
+- **Support.** $2,000 Shackouls Honors College Research Fellowship.
+- **Presented.** Mississippi State University Undergraduate Research Symposium.
+
+<!--
+<figure>
+  <img src="/images/research/brain-drain-fig1.png" alt="Describe the figure">
+  <figcaption>Fig. 1 — short caption explaining what the reader is looking at.</figcaption>
+</figure>
+-->
+
+---
+
+_More detail, motivation, and results to come._

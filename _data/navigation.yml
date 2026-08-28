@@ -1,10 +1,10 @@
-# Order of links in the header of the site.
-# Trimmed down to just what Jimmy's site needs: Home, Research, CV.
-# Add more entries later if the site grows (e.g. a Blog).
-
+# Header nav order. Add an entry here to add a tab.
 main:
+  - title: "Home"
+    url: /
   - title: "Research"
     url: /research/
-
   - title: "CV"
     url: /cv/
+  - title: "Personal"
+    url: /personal/

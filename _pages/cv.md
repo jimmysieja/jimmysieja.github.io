@@ -1,17 +1,17 @@
 ---
 title: "CV"
+kicker: "Curriculum Vitae"
 permalink: /cv/
 redirect_from:
   - /resume
 ---
 
-<iframe src="/files/cv.pdf" width="100%" height="1000" style="border: none; max-width: 100%;">
-  Your browser doesn't support embedded PDFs — <a href="/files/cv.pdf">download the CV instead</a>.
-</iframe>
+<!--
+  To update the CV: export the latest PDF from Overleaf, name it exactly
+  "cv.pdf" (all lowercase — GitHub Pages is case-sensitive), and drop it into
+  the /files/ folder, replacing the old one. Then update the date below.
+-->
 
-<p><a href="/files/cv.pdf" target="_blank" rel="noopener">Open in a new tab</a></p>
+**Last updated:** [Month Year]
 
-<!-- To update: export the latest version from Overleaf as a PDF, name it exactly "cv.pdf"
-     (all lowercase — GitHub Pages is case-sensitive even though Windows isn't, so "CV.pdf" or
-     "Cv.pdf" will silently break the links above), and drop it into the /files/ folder,
-     replacing the old one. -->
+<p>You can see my CV <a href="/files/cv.pdf" target="_blank" rel="noopener">here</a>.</p>
