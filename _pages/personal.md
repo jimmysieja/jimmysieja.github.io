@@ -14,19 +14,8 @@ permalink: /personal/
 
 ## Gap Year Backpacking
 
-<!--
-  Suggested setup: a separate "gap-year" repo (same pattern as french-habit-tracker)
-  that doubles as a small GitHub Pages site — a README route map, one markdown file
-  per country for stories, a spend table / CSV, and per-leg photo-album links
-  (Google Photos or Flickr; don't commit the photos themselves to git). Then link
-  it below and mirror the summary table here. Claude can scaffold that repo.
--->
+Before starting at the Fed, I spent 153 days backpacking solo across 16 countries
+in Europe. I tracked the routes, train rides, and every dollar along the way and
+built it into a site with an interactive map and a full spending breakdown.
 
-A year on the road before the Fed. Running summary:
-
-| Country | Cities | Nights | Spend |
-|---|---|---|---|
-| [country] | [cities] | [n] | $[amount] |
-
-- **Photos:** [album link]
-- **Stories / full log:** [repo or site link]
+<p><a href="https://jimmysieja.github.io/eubackpacking/" target="_blank" rel="noopener">See the trip &rarr;</a></p>
