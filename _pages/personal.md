@@ -3,8 +3,6 @@ title: "Personal"
 permalink: /personal/
 ---
 
-## Projects
-
 **French Habit Tracker** — I'm learning french and keep a daily habit tracker, paired with analytics written in Python.
 [View the live dashboard →](https://github.com/jimmysieja/french-habit-tracker)
 
@@ -14,6 +12,5 @@ permalink: /personal/
 - [add your interests here]
 -->
 
-## Gap Year Backpacking
+**Gap Year Backpacking** — After graduating, I ended up taking an unexpected gap year and had the incredible opportunity to backpack through ~30 European countries across two separate trips. The first trip was a 2 month euro summer with a hometown friend in 2025. The second was a 3 month solo trip in spring 2026. I document all travel routes and locations in an interactive map with pictures, as well as other fun statistics.  <a href="https://jimmysieja.github.io/eubackpacking/" target="_blank" rel="noopener">All of this can be found here. &rarr;</a>, [Work in progress]
 
-After graduation, I took an originally unintentional gap year and have been fortunate to have been able to backpack around ~30 countries in Europe across two trips. The first trip was with a hometown friend over 2 summer months in 2025. The second was a 3 month solo trip over spring 2026. I tracked the train routes, expenses, and lots of pictures! All of these can be seen <a href="https://jimmysieja.github.io/eubackpacking/" target="_blank" rel="noopener">here &rarr;</a>, where I built it into a site.

@@ -1,7 +1,7 @@
 ---
 title: "Research"
 permalink: /research/
-lead: "Early-stage work. I'll expand these in my own words as they develop."
+lead: ""
 ---
 
 <!--
@@ -11,27 +11,31 @@ lead: "Early-stage work. I'll expand these in my own words as they develop."
   Papers/drafts go in /files/ and are linked like the one below.
 -->
 
-## Brain drain
-
 ### Impact of Remote Work on Domestic Brain Drain
 
 <p class="meta">Working paper &middot; with <a href="https://www.linkedin.com/in/josh-w-phillips/">Joshua Phillips</a></p>
 
-This project asks whether the rise of remote work during the COVID-19 pandemic
-slowed *domestic brain drain* — the movement of skilled workers away from their
-birth states and toward a handful of large urban labor markets. Using a
-difference-in-differences design on IPUMS USA microdata, we find that remote work
-has a "preventative" effect, letting people stay in their home state while taking
-higher-paying out-of-state jobs, and a likely "reverse" effect that pulls earlier
-migrants back home. The work was supported by a $2,000 Shackouls Honors College
-Research Fellowship and presented at the Mississippi State University
-Undergraduate Research Symposium.
+This paper examines the impact of remote work, accelerated by the COVID-19
+pandemic, on domestic brain drain within the United States. Using a difference-in-differences
+methodology, we analyze whether the increased geographic flexibility provided by remote work has 
+mitigated the migration of skilled workers from their
+state of birth, commonly referred to as domestic brain drain. Our findings indicate
+that remote work has both a ”preventative” effect, allowing individuals to remain in
+their home state while accessing higher-paying jobs, and a potential ”reverse” effect,
+enabling those who previously migrated to return to their home state. While data
+limitations preclude a direct analysis of return migration trends, these initial findings
+have important implications for policymakers and regional stakeholders seeking to address 
+talent retention and foster equitable economic development in a post-pandemic labor market.
 
-**Where it's going:** we have been granted access to the PSID restricted-use data
+The work was supported by a $2,000 Shackouls Honors College
+Research Fellowship. I presented our research at the Mississippi State University
+Undergraduate Research Symposium and participated in the 3MRP at the symposium.
+
+**Where it's going:** we have been granted access to the PSID restricted-use data [Aug 26]
 and are continuing the project with it — its panel structure lets us follow the
 same individuals over time and test the return-migration channel directly.
 
-[Read the current draft (PDF) &rarr;](/files/remote-work-brain-drain.pdf){:target="_blank" rel="noopener"}
+[Read the draft from our Comparative Economic Policy course(PDF) &rarr;](/files/remote-work-brain-drain.pdf){:target="_blank" rel="noopener"}
 
 <!--
 <figure>
