@@ -17,4 +17,4 @@ redirect_from:
 
 **Last updated:** [Aug 2026]
 
-You can see my CV [here](/files/cv.pdf).
+You can find my CV [here](/files/cv.pdf).

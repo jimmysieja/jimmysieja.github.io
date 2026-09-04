@@ -11,11 +11,11 @@ lead: ""
   Papers/drafts go in /files/ and are linked like the one below.
 -->
 
-### Impact of Remote Work on Domestic Brain Drain
+### The Impact of Remote Work on Domestic Brain Drain in the United States
 
-<p class="meta">Working paper &middot; with <a href="https://www.linkedin.com/in/josh-w-phillips/">Joshua Phillips</a></p>
+<p class="meta">Working paper &middot; with <a href="https://www.linkedin.com/in/josh-w-phillips/">Josh Phillips</a></p>
 
-This paper examines the impact of remote work, accelerated by the COVID-19
+**Abstract** This paper examines the impact of remote work, accelerated by the COVID-19
 pandemic, on domestic brain drain within the United States. Using a difference-in-differences
 methodology, we analyze whether the increased geographic flexibility provided by remote work has 
 mitigated the migration of skilled workers from their
@@ -27,19 +27,10 @@ limitations preclude a direct analysis of return migration trends, these initial
 have important implications for policymakers and regional stakeholders seeking to address 
 talent retention and foster equitable economic development in a post-pandemic labor market.
 
-The work was supported by a $2,000 Shackouls Honors College
+We received $2,000 of support via the Shackouls Honors College
 Research Fellowship. I presented our research at the Mississippi State University
-Undergraduate Research Symposium and participated in the 3MRP at the symposium.
+Undergraduate Research Symposium and participated in their 3MRP.
 
-**Where it's going:** we have been granted access to the PSID restricted-use data [Aug 26]
-and are continuing the project with it — its panel structure lets us follow the
-same individuals over time and test the return-migration channel directly.
-
-[Read the draft from our Comparative Economic Policy course(PDF) &rarr;](/files/remote-work-brain-drain.pdf){:target="_blank" rel="noopener"}
-
-<!--
-<figure>
-  <img src="/images/research/brain-drain-fig1.png" alt="Describe the figure">
-  <figcaption>Fig. 1 — short caption explaining what the reader is looking at.</figcaption>
-</figure>
--->
+**Where it's going:** we have been granted access to the PSID restricted-use dataset [Aug. 26]
+and will be continuing the project with it.
+[Read the draft from our Comparative Economic Policy course (PDF) &rarr;](/files/remote-work-brain-drain.pdf){:target="_blank" rel="noopener"}
