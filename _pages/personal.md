@@ -4,7 +4,7 @@ permalink: /personal/
 ---
 
 **French Habit Tracker** — I'm learning french and keep a daily habit tracker, paired with analytics written in Python.
-[View the live dashboard →](https://jimmysieja.github.io/french-habit-tracker/)
+<a href="https://jimmysieja.github.io/french-habit-tracker/" target="_blank" rel="noopener">View the live dashboard →</a>
 
 <!-- Commented out for now — may fill this in later.
 ## Interests
