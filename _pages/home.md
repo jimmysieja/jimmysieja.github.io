@@ -4,6 +4,8 @@ permalink: /
 headline: "Jimmy Sieja"
 subtitle: "Economic Research Analyst"
 photo: "/images/profile.jpg"
+seo:
+  type: Person
 redirect_from:
   - /about/
   - /about.html
